@@ -31,3 +31,9 @@ The last part, considers the implementation of an artificial neural network for 
 <img src="nn.png" width=500 />
 
 Once the model is built, we apply the gradient decent with 100 epochs, in order to implement early stopping, and in each epoch we use 128 samples of train data set. Finally, the model accuracy is tested and shown in the corresponding confusion matrix.
+
+### Autors and contact
+
+- __Ali Yousefi__  *email: <aliyousefi98@outlook.com>
+
+- __Mohammad Reza Haji Hosseini__ *email: <mrhhosseini75@gmail.com>
